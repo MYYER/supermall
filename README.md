@@ -1,19 +1,12 @@
-# supermall1
+# 一、项目描述
+### 项目基于 Vue 全家桶 + ES6 + Webpack 等技术，采用模块化、组件化、工程化的模式开发; 主要包含商城主页，购物车结算页，商品分类页，个人中心、商品详情页等功能模块，其中首页包含商品轮播图、首页推荐、本周流行、商品长列表展示等子模块，商品详情展示了商品和店铺信息、商品详情图片、用户评论等内容。
+# 二、项目展示
+### 首页
+![](https://img2020.cnblogs.com/blog/2055787/202008/2055787-20200803185901957-1605044966.png)
+### 商品详情页面
+![](https://img2020.cnblogs.com/blog/2055787/202008/2055787-20200803185922505-161636139.png)
+### 商品购物车页面
+![](https://img2020.cnblogs.com/blog/2055787/202008/2055787-20200803190016151-25775625.png)
+### 我的页面
+![](https://img2020.cnblogs.com/blog/2055787/202008/2055787-20200803190044269-926409824.png)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
